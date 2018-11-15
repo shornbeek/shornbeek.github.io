@@ -1,0 +1,12 @@
+body {
+
+    color: rgb(92, 83, 0);
+    background-color: azure;
+}
+
+.container {
+ margin: 0 auto;
+ padding-right: 20%;
+ padding-left: 20%;
+
+} 
